@@ -1,0 +1,11 @@
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.csproj.AssemblyReference.cache
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.Form1.resources
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.Properties.Resources.resources
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.csproj.GenerateResource.cache
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.csproj.CoreCompileInputs.cache
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\bin\Debug\oi3.exe.config
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\bin\Debug\oi3.exe
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\bin\Debug\oi3.pdb
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.exe
+C:\Users\annag\OneDrive\Рабочий стол\ОИ\3\oi3\oi3\obj\Debug\oi3.pdb
